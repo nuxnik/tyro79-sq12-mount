@@ -7,3 +7,7 @@ This is a camera mount for the SQ12 action camera on the DIY Eachine Tyro79 fram
 This model is also available as a printable STL file on [Thingiverse](https://www.thingiverse.com/thing:4700483)
 
 ![Model](img/model.jpg)
+![Model](img/mount1.jpg)
+![Model](img/mount2.jpg)
+![Model](img/mount3.jpg)
+![Model](img/mount4.jpg)
